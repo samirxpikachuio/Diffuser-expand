@@ -44,6 +44,6 @@ This project provides a tool to expand existing images using Stable Diffusion XL
 
     *   **Generate:**  Click the "Generate" button to start the outpainting process.
 
-## VRAM Optimization (If applicable in ComfyUI, Not Gradio directly. More for the underlying code).
+## VRAM Optimization (If not applicable directly. More for the underlying code).
 
 *   **Sequential CPU Offload:** Reduces VRAM usage by offloading parts of the model to the CPU.
